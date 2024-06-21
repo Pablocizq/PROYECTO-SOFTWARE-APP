@@ -1,0 +1,1 @@
+Este repositorio contiene un prototipo hecho en Axure RP 9. El prototipo es de la aplicación CuentArmonía, una aplicación que permite escuchar audiolibros entre otras cosas y hecha para la asignatura de Proyecto Software de Ingeniría Informática de la Universidad de Zaragoza.
